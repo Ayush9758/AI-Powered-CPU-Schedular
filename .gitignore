@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Data and models
+*.pkl
+*.csv
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
